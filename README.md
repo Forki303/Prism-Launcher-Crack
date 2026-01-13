@@ -9,6 +9,7 @@ v1.0 Usage: Download Prism Launcher [9.4](https://github.com/PrismLauncher/Prism
 # Prism-Launcher-Crack На русском
 для Prism Launcher 10.0.0 и новее <br />
 v2.0 Кряк-скрипт для Prism Launcher. Использование: Скачайте [последнюю](https://prismlauncher.org/) версию Prism Launcher, откройте его, а затем закройте. Запустите соответствующий скрипт от имени администратора (русская или английская версия). <br />
+<br />
 для Prism Launcher 9.4 <br />
 v1.0 Использование: Загрузите версию Prism Launcher [9.4](https://github.com/PrismLauncher/PrismLauncher/releases/tag/9.4), откройте её, а затем закройте. Запустите соответствующий скрипт от имени администратора (русская или английская версия).
 
